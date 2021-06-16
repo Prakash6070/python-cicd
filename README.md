@@ -22,7 +22,7 @@ This sample includes:
 Getting Started
 ---------------
 
-These directions assume you want to develop on your development environment or a Cloud9 environment.
+These directions assume you want to develop on your development environment or a Cloud9 environment. and follow
 
 To work on the sample code, you'll need to clone your project's repository to your
 local computer. If you haven't, do that first. You can find instructions in the AWS CodeStar user guide at https://docs.aws.amazon.com/codestar/latest/userguide/getting-started.html#clone-repo.
